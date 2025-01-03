@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>15 Minutos Literários</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        p {
+            margin: 20px 0;
+        }
+        a {
+            display: block;
+            margin: 20px 0;
+            padding: 15px;
+            text-align: center;
+            background: #2c3e50;
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        a:hover {
+            background: #34495e;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bem-vindo ao "15 Minutos Literários"!</h1>
+        <p>O "15 Minutos Literários" é um grupo dedicado a promover o hábito da leitura. A ideia é simples: dedicar ao menos 15 minutos por dia à leitura e compartilhar essa experiência com outros leitores. Aqui, celebramos a diversidade de gêneros literários e incentivamos a troca de ideias sobre livros e leituras.</p>
+        <p>Nosso objetivo é criar uma comunidade engajada e inspirar mais pessoas a incluir a leitura em sua rotina diária.</p>
+        <p>Quer fazer parte desta jornada literária? Clique no botão abaixo para entrar no grupo do WhatsApp:</p>
+        <a href="https://chat.whatsapp.com/JFQcoAJeKTvJoGjEnyFnAw" target="_blank">Acesse o Grupo no WhatsApp</a>
+    </div>
+</body>
+</html>
